@@ -63,9 +63,9 @@ The following hosted platforms provide commercial-grade Image-to-Video generatio
 
 ## 💻 Open-Source GitHub Projects
 
-The following open-source repositories provide source code, weights, inference pipelines, or training recipes for video prediction, future frame synthesis, and generative video modeling. Repositories are sorted in descending order by verified GitHub star counts. 🌟
+The following open-source repositories provide source code, weights, inference pipelines, or training recipes for video prediction, future frame synthesis, and generative video modeling. Repositories are sorted in descending order by verified GitHub Stars_Counts. 🌟
 
-| Repository | GitHub Stars | Primary Paradigm | Technical Description |
+| Repository | GitHub_Stars | Primary Paradigm | Technical Description |
 | :--- | :---: | :--- | :--- |
 | **[hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora)** | [![Stars](https://img.shields.io/github/stars/hpcaitech/Open-Sora?style=social&color=white)](https://github.com/hpcaitech/Open-Sora/stargazers) | Video DiT Suite & I2V | High-performance open-source platform democratizing efficient video production, text-to-video synthesis, image-to-video prediction, and long-horizon video extensions. |
 | **[Stability-AI/generative-models](https://github.com/Stability-AI/generative-models)** | [![Stars](https://img.shields.io/github/stars/Stability-AI/generative-models?style=social&color=white)](https://github.com/Stability-AI/generative-models/stargazers) | Latent Video Diffusion (SVD) | Pioneering open-weight latent video diffusion models (SVD and SVD-XT) generating high-resolution 14- and 25-frame future video sequences from a single static image conditioning. |
@@ -164,7 +164,7 @@ Contributions are warmly welcomed! To add or update an entry:
 2. **Create a descriptive feature branch**: `git checkout -b add-model-name`.
 3. **Format your entry**:
    - For SaaS products: Provide concrete starting tier pricing, explicit free tier limits (avoid generic terms like "Usage-based" or "N/A"), and verified valuation/revenue scale.
-   - For Open-Source repositories: Ensure the repository link is valid and format the star badge linking directly to the repo's stargazers page.
+   - For Open-Source repositories: Ensure the repository link is valid and format the Stars_Badge linking directly to the repo's stargazers page.
 4. **Submit a Pull Request** with a concise summary of the addition and official reference links.
 
 ---
